@@ -80,24 +80,24 @@ Este proyecto está bajo la licencia MIT. Puedes utilizarlo y modificarlo librem
 
 Ejemplo de la interfaz del sistema: 
 
-![Captura1](https://github.com/user-attachments/assets/b90f959f-986e-4323-bfc0-8841d38939fe)
+![Captura1](Captura1.png)
 
-![Captura2](https://github.com/user-attachments/assets/452fda0c-e200-491b-bc67-cb225ffc848c)
+![Captura2](Captura2.png)
 
-![Captura3](https://github.com/user-attachments/assets/c8b10fb6-0d5b-471d-9a17-13121acb6426)
+![Captura3](Captura3.png)
 
-![Captura4](https://github.com/user-attachments/assets/4941cd77-18f8-47ea-952f-f71c7fb3a98d)
+![Captura4](Captura4.png)
 
-![Captura5](https://github.com/user-attachments/assets/6bfe1b66-0611-4aa8-bb6f-fe4f56d58139)
+![Captura5](Captura5.png)
 
-![Captura6](https://github.com/user-attachments/assets/7c292aec-3e03-4405-83bd-be48a529c3cc)
+![Captura6](Captura6.png)
 
-![Captura7](https://github.com/user-attachments/assets/80d60a8f-e4d8-466f-960d-d4d7ae914d70)
+![Captura7](Captura7.png)
 
-![Captura8](https://github.com/user-attachments/assets/1dcfef67-96fc-474d-a81a-5291b151c63e)
+![Captura8](Captura8.png)
 
-![Captura9](https://github.com/user-attachments/assets/abef7137-e632-4647-a46d-d358e3b41424)
+![Captura9](Captura9.png)
 
-![Captuta10](https://github.com/user-attachments/assets/c54e476d-51fc-47e8-a485-e71d817af7a5)
+![Captuta10](Captuta10.png)
 
 
