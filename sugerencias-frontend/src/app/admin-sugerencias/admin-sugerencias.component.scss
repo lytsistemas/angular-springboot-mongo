@@ -1,0 +1,28 @@
+.admin-sugerencias-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  th {
+    background: #007bff;
+    color: white;
+  }
+  
+  tr:nth-child(even) {
+    background: #f2f2f2;
+  }
+  

@@ -1,0 +1,16 @@
+<div class="sugerencias-container">
+  <h1>Enviar Sugerencia</h1>
+  <form [formGroup]="sugerenciaForm" (ngSubmit)="enviarSugerencia()">
+    <div class="form-group">
+      <label for="usuario">Usuario</label>
+      <input type="text" id="usuario" formControlName="usuario" readonly /> <!-- Ensure the email field is readonly -->
+    </div>
+    <div class="form-group">
+      <textarea placeholder="Escribe tu sugerencia" formControlName="texto"></textarea>
+    </div>
+    <div class="button-container">
+      <button type="submit">Enviar</button>
+      <button (click)="logout()">Logout</button>
+    </div>
+  </form>
+</div>

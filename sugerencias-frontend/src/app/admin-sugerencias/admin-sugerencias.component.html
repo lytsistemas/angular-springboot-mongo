@@ -1,0 +1,20 @@
+<div class="admin-sugerencias-container">
+  <h1>Lista de Sugerencias</h1>
+  <button (click)="logout()">Logout</button> <!-- Add logout button -->
+  <div *ngIf="loading">Cargando sugerencias...</div>
+  <table *ngIf="!loading && sugerencias.length > 0">
+    <thead>
+      <tr>
+        <th>Usuario</th>
+        <th>Texto</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let sugerencia of sugerencias">
+        <td>{{ sugerencia.usuario }}</td>
+        <td>{{ sugerencia.texto }}</td>
+      </tr>
+    </tbody>
+  </table>
+  <div *ngIf="!loading && sugerencias.length === 0">No hay sugerencias disponibles.</div>
+</div>
